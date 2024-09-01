@@ -1,0 +1,1 @@
+noise_type:gauss50 avg_psnr:21.50847770816679 avg_ssim:0.35400012474992226

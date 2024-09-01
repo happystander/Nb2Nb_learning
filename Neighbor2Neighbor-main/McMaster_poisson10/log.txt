@@ -1,0 +1,1 @@
+noise_type:poisson10 avg_psnr:21.16569220718892 avg_ssim:0.5170851268534238
